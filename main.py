@@ -8,7 +8,7 @@ from threading import Thread
 Flag=0
 # flag is used to know where the input number should go 
 
-api='YOUR API KEY'
+api='AAF3oyCDD_PxYM0lTr7i63UmOaDILHGcXZ0'
 
 help_txt='/truecaller - contact info\n/smsbomber - multiple sms spam\n/anime - latest anime episodes\n/sourcecode - Bot SourceCode\n'
 
